@@ -1,7 +1,7 @@
 def addition(num1, num2)
   addition = "#{num1} + #{num2}"
 end
-addition(num1, num2)
+addition
 
 def subtraction(num1, num2)
 
